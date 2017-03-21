@@ -1,5 +1,6 @@
 # uploadfile
-Below available API
+Below available API:
+
 http://localhost:8080/rest/filemetas?keyword=005  
 ("GET" Search "keyword, page, pageSize" keyword may id/name/fullname/skypeid etc.)
 
