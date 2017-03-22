@@ -1,7 +1,7 @@
 # uploadfile
 
 ## Description:
-Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications. All configuration is done by annotations. You don’t need a single XML configuration file. Here we use in memoru H2 db.
+Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications. All configuration is done by annotations. You don’t need a single XML configuration file. Here we use in memory H2 db.
 
 ## System Requirement :
 JAVA 1.8 Spring Boot 1.5.1 H2 db Hybernate Spring Security
